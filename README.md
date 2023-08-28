@@ -7,5 +7,3 @@ Workflow:
 5) Image data preparation
 6)Label the classes
 7Now the network is ready to be trained. In Keras, it is done by calling the Fit method of the given network. 
-
-Translated with www.DeepL.com/Translator (free version)
